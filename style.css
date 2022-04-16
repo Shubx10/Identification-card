@@ -54,22 +54,6 @@
     margin: 10px 5px;
 }
 
-.btn{
-    text-decoration: none;
-    display: inline-block;
-    font-size: 18px;
-    font-weight: 500;
-    background: rgb(151, 147, 147);
-    color: #0a090a;
-    padding: 10px 30px;
-    border-radius: 30px;
-    margin: 30px 0 10px;
-}
-
-.btn:hover{
-    background: rgb(219, 215, 215);
-}
-
 .dev{
     font-family: 'Indie Flower', cursive, sans-serif;
     font-size: 28px;
