@@ -17,7 +17,7 @@ A simple webpage made using `Glassmorphism.`
 ## About Website
 The Interface of the webpage is made using `HTML` and `CSS` while, `Javascript` is responsible for the tilt effect. The Javascript code is taken from  `micku7zu/vanilla-tilt.js`.
 
-<a href="https://ibb.co/hKSTBh1"><img src="https://i.ibb.co/D7Zj9sg/card.png" alt="card" border="0" width=850></a>
+<img src="images/card.png" alt="card" width=850>
 
 ### Languages:
 <p align="left"><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a></p>
